@@ -9,6 +9,7 @@ Este é um projeto de uma página estática para uma Hamburgueria fictícia, des
 
 - **HTML5**: Estruturação do conteúdo da página.
 - **CSS3**: Estilização e layout responsivo.
+  
 
 ## 🎨 Estrutura do Projeto
 
@@ -46,6 +47,8 @@ O projeto utiliza um design responsivo, garantindo que a página seja visualizad
 ## 📸 Prévia do Projeto
 
 ![Preview da Página](assets/b7.burger.png)
+
+**Se você está iniciando** e quer o passo a passo da codificação então confira aqui: <a href="https://www.notion.so/B7Burguer-12e3cb416844802ea9a0e81590501ff6?pvs=4">B7.Burger - Notion</a>
 
 > Esta é uma prévia da página principal. O design é inspirado em uma hamburgueria moderna com estilo rústico.
 

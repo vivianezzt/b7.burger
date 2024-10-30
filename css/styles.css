@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* AQUI É O ESTILO GOLBAL */
 * {
     margin: 0;
     padding: 0;
@@ -257,7 +258,7 @@ header .menu .menu-inline {
 }
 
 .product-item .product-price {
-    font-size: 32px;
+    font-size: 33px;
     font-weight: bold;
     color: #fe6a0f;
 }
