@@ -57,7 +57,7 @@ O projeto utiliza um design responsivo, garantindo que a página seja visualizad
    ```
 
 2. Abra o arquivo `index.html` no navegador para visualizar o site.
-3. Ou veja pela vercel: <a href="">B7.Burger</a>
+3. Ou veja pela vercel: <a href="https://b7-burger.vercel.app/">B7.Burger</a>
 
 ---
  Feito por <a href="https://www.linkedin.com/in/vivianezzt/">**Viviane Silva**</a>
