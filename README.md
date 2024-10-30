@@ -40,7 +40,6 @@ O projeto utiliza um design responsivo, garantindo que a página seja visualizad
 
 ## 💡 Funcionalidades Adicionais
 
-- **Botão de Ação no Banner**: Um botão "Faça seu pedido" direcionando o usuário para uma seção de contato ou formulário de pedidos.
 - **Efeitos Hover**: Estilizações adicionais para destacar interações com links e botões.
 - **Animações Suaves**: Transições suaves para uma experiência de navegação mais agradável.
 
